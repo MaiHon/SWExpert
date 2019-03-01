@@ -15,3 +15,9 @@ Learning Algorithm
 
 - Weird
 - Missing some conditions ends up with speding time more.
+
+[1952](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq#) :
+[SW1952.java](src/SW1952.java) :
+
+- DP
+- Tried to solve with dfs -> failed -> impossible?
