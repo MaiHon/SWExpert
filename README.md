@@ -26,3 +26,9 @@ Learning Algorithm
 [SW1217.java](src/SW1217.java) :
 
 - Recursive power function
+
+[1220](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD) :
+[SW1220.java](src/SW1220.java) :
+
+- Needed to start from bottom not from the top with N
+- with S => start from top
