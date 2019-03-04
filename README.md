@@ -32,3 +32,10 @@ Learning Algorithm
 
 - Needed to start from bottom not from the top with N
 - with S => start from top
+
+[1221](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD) :
+[SW1221.java](src/SW1221.java) :
+[SW1221_v2.java](src/SW1221_v2.java) :
+
+- PriorityQueue + Comparator
+- At first, did roughly => _v2 is much better code
