@@ -50,3 +50,8 @@ Learning Algorithm
 [SW1234.java](src/Basic/SW1234.java) :
 
 - Using Stack or Deque
+
+[1289](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) :
+[SW1289.java](src/Basic/SW1289.java) :
+
+- Simple
