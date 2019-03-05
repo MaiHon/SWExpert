@@ -39,3 +39,9 @@ Learning Algorithm
 
 - PriorityQueue + Comparator
 - At first, did roughly => _v2 is much better code
+
+[1215](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi) :
+[SW1215.java](src/SW1215.java) :
+
+- Palindrome
+- Separated for row and column
