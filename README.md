@@ -62,3 +62,8 @@ Learning Algorithm
 
 - DFS
 - Revised one is way faster
+
+[3074]
+[SW3074.java](src/Basic/SW3074.java) :
+
+- Brutal way timed over -> BinaraySearch
