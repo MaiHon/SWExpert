@@ -55,3 +55,10 @@ Learning Algorithm
 [SW1289.java](src/Basic/SW1289.java) :
 
 - Simple
+
+[1767](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf):
+[SW1767_Revised.java](src/Basic/SW1767_Revised.java):
+[SW1767.java](src/Basic/SW1767.java):
+
+- DFS
+- Revised one is way faster
