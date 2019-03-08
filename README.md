@@ -63,7 +63,12 @@ Learning Algorithm
 - DFS
 - Revised one is way faster
 
-[3074]
+[3074](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_XEokaAEcDFAX7) :
 [SW3074.java](src/Basic/SW3074.java) :
 
 - Brutal way timed over -> BinaraySearch
+
+[1486](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw) :
+[SW1486.java](src/Basic/SW1486.java) :
+
+- DFS
