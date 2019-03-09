@@ -80,3 +80,14 @@ Learning Algorithm
 
 - All worked in BOJ
 - Just v3 passed at SWEA :(
+
+[1206](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE):
+[SW1206.java](src/Basic/SW1206.java):
+
+- Check +2, +1, -1 and -2's val
+
+[1244](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE):
+[SW1244.java](src/Basic/SW1244.java):
+
+- swap function
+- dfs
