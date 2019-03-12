@@ -91,3 +91,8 @@ Learning Algorithm
 
 - swap function
 - dfs
+
+[1859](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc) :
+[SW1859.java](src/Basic/SW1859.java)
+
+- get the selling position
