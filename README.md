@@ -96,3 +96,10 @@ Learning Algorithm
 [SW1859.java](src/Basic/SW1859.java)
 
 - get the selling position
+
+[6855](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWhUBBUqQO0DFAW_) :
+[SW6855.java](src/Basic/SW6855.java) :
+[SW6855_PriorityQueue.java](src/Basic/SW6855_PriorityQueue.java):
+
+- DFS took over time
+- Solved by Priority Queue
