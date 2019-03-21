@@ -103,3 +103,9 @@ Learning Algorithm
 
 - DFS took over time
 - Solved by Priority Queue
+
+[1248](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD) :
+[SW1248.java](src/Basic/SW1248.java) :
+
+- tried with dubble array => memory exceed
+- ArrayList
