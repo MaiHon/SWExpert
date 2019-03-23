@@ -109,3 +109,10 @@ Learning Algorithm
 
 - tried with dubble array => memory exceed
 - ArrayList
+
+[2819](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB) :
+[SW2819.java](src/Basic/SW2819.java) :
+
+- Solved using String, concat func & substring func
+- => cost 90,772 kb memory => too much
+- Solved using just integer => 43,852 kb. Plus, faster!
