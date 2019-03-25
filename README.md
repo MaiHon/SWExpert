@@ -116,3 +116,10 @@ Learning Algorithm
 - Solved using String, concat func & substring func
 - => cost 90,772 kb memory => too much
 - Solved using just integer => 43,852 kb. Plus, faster!
+
+[1213]
+[SW1213.java](src/Basic/SW1213.java) :
+
+ - KMP algorithm
+ - failed function for skipping
+ 
