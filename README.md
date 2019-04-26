@@ -117,9 +117,13 @@ Learning Algorithm
 - => cost 90,772 kb memory => too much
 - Solved using just integer => 43,852 kb. Plus, faster!
 
-[1213]
+[1213](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi&categoryId=AV14P0c6AAUCFAYi&categoryType=CODE) :
 [SW1213.java](src/Basic/SW1213.java) :
 
- - KMP algorithm
- - failed function for skipping
- 
+- KMP algorithm
+- failed function for skipping
+
+[7272](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz&categoryId=AWl0ZQ8qn7UDFAXz&categoryType=CODE) :
+[SW7272.java](src/Basic/SW7272.java) :
+
+- Simple String Problem
