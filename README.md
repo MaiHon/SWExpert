@@ -127,3 +127,8 @@ Learning Algorithm
 [SW7272.java](src/Basic/SW7272.java) :
 
 - Simple String Problem
+
+[7194](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWksRe4KARQDFAVE&) :
+[SW7194.java](src/Basic/SW7194.java) :
+
+- Need to handle when b == 1
