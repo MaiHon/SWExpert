@@ -132,3 +132,8 @@ Learning Algorithm
 [SW7194.java](src/Basic/SW7194.java) :
 
 - Need to handle when b == 1
+
+[7510](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWoEzJFa2A4DFARq&categoryId=AWoEzJFa2A4DFARq&categoryType=CODE) :
+[SW7510.java](src/Basic/SW7510.java) :
+
+- Need to optimize
